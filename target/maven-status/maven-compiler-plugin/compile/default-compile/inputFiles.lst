@@ -1,0 +1,16 @@
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/constants/ConstantApi.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/users/Users.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/uiselenium/pages/linkbox/ForgotPassword.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/users/TotalCountOfUsers.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/uiselenium/pages/base/BasePage.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/auth/DataUser.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/users/Photos.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/uiselenium/pages/linkbox/LoginPage.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/uiselenium/constants/Constant.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/uiselenium/common/CommonActions.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/auth/BaseResponse.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/auth/LoginUser.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/auth/LoginUserResponse.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/profile/Profile.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/auth/DataUserResponse.java
+/Users/oshyian/IdeaProjects/MyFirstFramework/src/main/java/api/jsonresponses/profile/Contacts.java

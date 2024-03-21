@@ -1,0 +1,16 @@
+uiselenium/common/CommonActions.class
+uiselenium/pages/linkbox/LoginPage.class
+api/jsonresponses/users/Users.class
+api/jsonresponses/users/TotalCountOfUsers.class
+api/constants/ConstantApi.class
+api/jsonresponses/users/Photos.class
+api/jsonresponses/auth/DataUserResponse.class
+uiselenium/pages/linkbox/ForgotPassword.class
+api/jsonresponses/auth/BaseResponse.class
+api/jsonresponses/auth/LoginUserResponse.class
+uiselenium/constants/Constant.class
+api/jsonresponses/auth/LoginUser.class
+api/jsonresponses/profile/Profile.class
+uiselenium/pages/base/BasePage.class
+api/jsonresponses/auth/DataUser.class
+api/jsonresponses/profile/Contacts.class

@@ -1,0 +1,6 @@
+api/tests/TestsForUsers.class
+api/tests/Requests.class
+api/tests/TestForProfile.class
+api/tests/Steps.class
+ui/test/LoginPageTest.class
+api/tests/TestsForAuth.class
